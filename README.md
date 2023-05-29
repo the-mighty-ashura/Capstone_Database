@@ -24,7 +24,8 @@ Navigate to the project directory.
 
 Install the required dependencies.
 
-`pip install sqlite3 tabulate`
+`pip install sqlite3`
+`pip install tabulate`
 
 Run the Python script.
 

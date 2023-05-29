@@ -71,4 +71,5 @@ Once the program is running, you can use the following options:
 
 # Credits
   
- This project was created by [Your Name]. If you have any questions or suggestions, please feel free to reach out.
+ This project was created by Louis Ferreira. If you have any questions or suggestions, please feel free to reach out.
+ Here is my email: gerhardus321@protonmail.com

@@ -14,29 +14,21 @@ Table of Contents
 
 To run this project locally, please follow these steps:
 
-    Clone the repository to your local machine.
+Clone the repository to your local machine.
 
-    shell
-
-git clone <repository-url>
+`git clone <repository-url>`
 
 Navigate to the project directory.
 
-shell
-
-cd bookstore-inventory-management
+`cd bookstore-inventory-management`
 
 Install the required dependencies.
 
-shell
-
-pip install sqlite3 tabulate
+`pip install sqlite3 tabulate`
 
 Run the Python script.
 
-shell
-
-    python main.py
+`python main.py`
 
 Note: Make sure you have Python and pip installed on your system.
 # Usage

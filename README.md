@@ -28,7 +28,7 @@ Install the required dependencies.
 
 Run the Python script.
 
-`python main.py`
+`python database_test.py`
 
 Note: Make sure you have Python and pip installed on your system.
 # Usage

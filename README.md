@@ -38,7 +38,7 @@ Once the program is running, you can use the following options:
 
 - **Enter new book**: Allows you to add a new book to the bookstore inventory by providing details such as book ID, title, author, and quantity.
 
-  ![Add Book](screenshots/add_book.png)
+  ![Add Book](screenshots/screenshot1.png)
   *Figure 1: Adding a new book to the inventory.*
 
 - **Update book**: Enables you to update the details of an existing book. You can choose the book by its ID and modify the title and author.

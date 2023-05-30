@@ -43,27 +43,27 @@ Once the program is running, you can use the following options:
 
 - **Update book**: Enables you to update the details of an existing book. You can choose the book by its ID and modify the title and author.
 
-  ![Update Book](screenshots/update_book.png)
+  ![Update Book](screenshots/screenshot3.png)
   *Figure 2: Updating book details.*
 
 - **Delete book**: Lets you remove a book from the inventory by selecting its ID.
 
-  ![Delete Book](screenshots/delete_book.png)
+  ![Delete Book](screenshots/screenshot2.png)
   *Figure 3: Deleting a book from the inventory.*
 
 - **Search books**: Allows you to search for a book by its ID and displays its details if found.
 
-  ![Search Books](screenshots/search_books.png)
+  ![Search Books](screenshots/screenshot4.png)
   *Figure 4: Searching for a book by ID.*
 
 - **View Books**: Displays a table of all the books in the bookstore inventory.
 
-  ![View Books](screenshots/view_books.png)
+  ![View Books](screenshots/screenshot5.png)
   *Figure 5: Viewing all the books in the inventory.*
 
 - **Reset database**: Resets the database, removing all the existing books. Use this option with caution as it cannot be undone.
 
-  ![Reset Database](screenshots/reset_database.png)
+  ![Reset Database](screenshots/screenshot6.png)
   *Figure 6: Resetting the database.*
 
 - **Exit**: Exits the program.
